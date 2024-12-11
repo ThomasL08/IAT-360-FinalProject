@@ -5,3 +5,6 @@ Pretrain model Used: https://huggingface.co/distilbert/distilbert-base-uncased?t
 Link to test my best fine tuned model uploaded hugging face https://huggingface.co/spaces/UNKNOWNAIDEEPLEARNING/Testing
 
 No idea how to change the name I names it testing for when I was testing it but I can't figure out how to update the name so its just testing :(
+
+
+Also Found out that my file is too big to commit to github So I will leave a link fo my google drive here as well
